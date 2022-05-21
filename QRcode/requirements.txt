@@ -1,0 +1,7 @@
+## Requirements for qrcode_generator ##
+
+## pip install 
+
+python==3.8.11 
+pillow==3.8.11 # Anaconda installed by default 
+qrcode==7.3.1
