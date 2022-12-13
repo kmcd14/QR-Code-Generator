@@ -8,9 +8,7 @@ The `qrcode_generator.py` script found inside `QRcode` folder asks the user to e
 How To Get The Repository on Your Machine
 
 
-Using your browser navigate to the repository:
-
-1. https://github.com/kmcd14/QR-Code-Generator
+1. Using your browser navigate to the repository: https://github.com/kmcd14/QR-Code-Generator
 2. Under clone, copy the repository address, as seen in the above picture, using either SSH or HTTPS
 3. Open your terminal and navigate to the location where you want to store the cloned directory.
 4. In the terminal type the command:
