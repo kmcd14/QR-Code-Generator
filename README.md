@@ -15,6 +15,8 @@ Using your browser navigate to the repository:
 3. Open your terminal and navigate to the location where you want to store the cloned directory.
 4. In the terminal type the command:
 
-$git clone git@github.com:kmcd14/MLandStats-assessment.git
+``
+  $git clone git@github.com:kmcd14/MLandStats-assessment.git
+``
 
 Press enter. The cloned repository is now on your machine.
